@@ -1,0 +1,4 @@
+# Python dependencies for Phase I In-Memory Python Console App
+
+# No external dependencies required - using Python 3.13+ standard library only
+# See plan.md for architecture decision on using standard library only
